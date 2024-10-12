@@ -1,0 +1,8 @@
+pyttsx3
+speechrecognition
+wikipedia
+webbrowser
+pyautogui
+requests
+beautifulsoup4
+keyboard

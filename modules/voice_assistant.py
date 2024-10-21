@@ -18,7 +18,8 @@ def wishMe():
         speak("Good Afternoon Zeus")
     else:
         speak("Good Evening Zeus")
-    speak("I am Kaiser. Let’s start my demo...")
+    speak("Hello, I’m Kaiser. Welcome to my demo! As I'm currently in the testing phase, I will seek your confirmation before executing any tasks.")
+
 
 def takeCommand():
     r = sr.Recognizer()
